@@ -6,8 +6,8 @@ public class per {
 		// TODO Auto-generated method stub
 
 		System.out.println("HI2");
-		System.out.println("HI2");
 
+		System.out.println("HI4");
 
 	}
 
