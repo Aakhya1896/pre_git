@@ -7,7 +7,7 @@ public class per {
 
 		System.out.println("HI2");
 
-		System.out.println("HI4");
+		System.out.println("HI7");
 
 	}
 
